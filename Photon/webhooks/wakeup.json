@@ -1,0 +1,9 @@
+{
+  "event": "wakeup",
+  "url": "https://st20iygm56.execute-api.us-east-1.amazonaws.com/prod",
+  "requestType": "POST",
+  "json": {
+    "operation": "wakeup"
+  },
+  "mydevices": true
+}
